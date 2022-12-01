@@ -13,6 +13,7 @@ function App() {
   }
 
   getBoardData();
+  console.log(boadData);
 
   return (
     <div className="App">
